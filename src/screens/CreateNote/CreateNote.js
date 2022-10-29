@@ -16,8 +16,8 @@ const CreateNote = () => {
     const [category,setCategory] = useState('');
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState(false);
-    // const baseUrl = "https://notes-app-backend.cyclic.app/";
-    const baseUrl = "http://localhost:5320/";
+    const baseUrl = "https://notes-app-backend.cyclic.app/";
+    // const baseUrl = "http://localhost:5320/";
 
     const navigation = useNavigate();
 

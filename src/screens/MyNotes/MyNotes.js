@@ -15,8 +15,8 @@ const MyNotes = () => {
 
     const [notes,setNotes] = useState([]);
     const [error, setError] = useState(false);
-    // const baseUrl = "https://notes-app-backend.cyclic.app/";
-    const baseUrl = "http://localhost:5320/";
+    const baseUrl = "https://notes-app-backend.cyclic.app/";
+    // const baseUrl = "http://localhost:5320/";
 
 
     const deleteHandler = async(id) => {
