@@ -1,0 +1,19 @@
+.main{
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    background-image: url("../../images/undraw_typewriter2.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 600px;
+}
+
+.title{
+    font-size: 60px;
+    color: #1A2456;
+}
+
+.intro-text{
+    width: 100%;
+    text-align: center;
+}

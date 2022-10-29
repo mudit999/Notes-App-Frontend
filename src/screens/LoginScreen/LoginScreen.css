@@ -1,0 +1,27 @@
+.loginContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+}
+
+.loginButton{
+    background-color: #1a2456;
+    padding: 8px;
+    color: #efc2b3;
+    font-size: large;
+    border: none;
+}
+
+.formStyles{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+.loginCol{
+    color: black;
+}
+
+.registerLink{
+    color: #1a2456;
+}

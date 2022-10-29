@@ -1,0 +1,21 @@
+.container-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+    border: 1px solid black;
+    margin: 15px;
+    padding: 10px;
+    background-color: #1A2456;
+    color: #efc2b3;
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+a:hover{
+    color: #AE8274;
+}

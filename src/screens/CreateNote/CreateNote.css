@@ -1,0 +1,35 @@
+.createContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+}
+
+.formStyles{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.submitButton{
+    background-color: #1a2456;
+    padding: 8px;
+    color: #efc2b3;
+    font-size: large;
+    border: none;
+}
+
+.goBackButton{
+    background-color: #b91c1c;
+    padding: 8px;
+    color: #efc2b3;
+    font-size: large;
+    border: none;
+}
+
+.btnSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
