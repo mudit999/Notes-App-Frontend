@@ -32,11 +32,11 @@ Notes-App Backend is deployed on Cyclic.sh
 - Filter notes based on Categories
 
 # Data-Flow Diagram
-![](https://github.com/mudit999/Notes-Mern-App/blob/master/demo/notesApp-Data-Flow.png)
+![](https://github.com/mudit999/Notes-App-Frontend/blob/main/demo/notes-app-Data-Flow.png)
 
 
 
-# Demo
-![](https://github.com/mudit999/Notes-Mern-App/blob/master/demo/notes-app-demo.gif)
+# Quick Look
+![](https://github.com/mudit999/Notes-App-Frontend/blob/main/demo/notes-app-demo.gif)
 
 
