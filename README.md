@@ -1,6 +1,6 @@
 # Notes-App
 
-- Making notes can be hetic task but always useful when you want to revisit stuff. 
+- Making notes can be hectic task but always useful when you want to revisit stuff. 
 - Let's make that task a bit interactive for you.
 - Introducing Notes App 🎉 
 #### Notes App is an easy-to-use and secure Notes app to take notes for daily learning or important things.
